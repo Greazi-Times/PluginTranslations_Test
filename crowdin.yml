@@ -1,0 +1,3 @@
+files:
+  - source: /Templates
+    translation: /Translations/%file_name%_%language%%file_extension%
