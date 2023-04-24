@@ -1,3 +1,3 @@
 files:
-  - source: /Templates
-    translation: /Translations/%file_name%_%language%%file_extension%
+  - source: /Templates/*.lang
+    translation: /Translations/%file_name%_%language%.lang
