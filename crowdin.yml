@@ -3,5 +3,3 @@ files:
     translation: /Translations/%file_name%_%language%.lang
     dest: /Templates/%file_name%.properties
     type: properties
-    escape_special_characters: 0
-    escape_quotes: 0
