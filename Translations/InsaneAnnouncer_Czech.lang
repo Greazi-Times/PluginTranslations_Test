@@ -5,7 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
 generalSettingsPane.name: "Obecné"
 generalSettingsPane.soundButton.lore.click: "Klikni pro změnění zvuku"
 generalSettingsPane.soundButton.lore.currentSound: "Současný zvuk"
@@ -37,7 +36,7 @@ groupView.messagesButton.name: "Zprávy"
 groupView.pauseButton.lore.click: "Klikni pro %action% skupiny"
 groupView.pauseButton.lore.click.enable: "aktivaci"
 groupView.pauseButton.lore.click.tempDisable: "čásné vypnutí"
-#groupView.pauseButton.name: "Status"
+groupView.pauseButton.name: "Status"
 groupView.permissionButton.lore.click: "Klikni pro %action% oprávnění"
 groupView.permissionButton.lore.click.disable: "vypnutí"
 groupView.permissionButton.lore.click.enable: "zapnutí"
@@ -63,7 +62,7 @@ lineBrowser.button.userInput.title.sub: "Vepiš zprávu do chatu"
 lineBrowser.title: "Zpráva > Řádky"
 messageCreator.actionBar.lines.empty: "Vepiš svou novou zprávu **řádek** po **řádku**"
 messageCreator.actionBar.lines.notEmpty: "Chcete-li vytvořit tuto zprávu, zadejte **%doneTranslation%**"
-#messageCreator.done: "done"
+messageCreator.done: "done"
 messageCreator.mainTitle: "Tvůrce zpráv"
 messageCreator.subTitle: "Vepiš zprávu do chatu"
 messageCreator.yourMessage: "Vaše zpráva"
