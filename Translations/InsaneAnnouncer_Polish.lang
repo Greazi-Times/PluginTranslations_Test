@@ -1,12 +1,10 @@
+#
 # Official Language File
 # To make your own language file, copy this file and edit the copy
 #
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-# Translated by crosby | 100%
-
-
 generalSettingsPane.name: "Ogólne"
 generalSettingsPane.soundButton.lore.click: "Kliknij aby zmienić dźwięk"
 generalSettingsPane.soundButton.lore.currentSound: "Aktualny dźwięk"
