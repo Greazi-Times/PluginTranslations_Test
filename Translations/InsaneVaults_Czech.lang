@@ -350,7 +350,7 @@ UserBlacklistedItemListView.action.title: "Položky na černé listině > Materi
 UserBlacklistedItemListView.button.action.customModel.title.main: "ID vlastního modelu"
 UserBlacklistedItemListView.button.action.customModel.title.sub: "Změnit ID vlastního modelu této položky"
 UserBlacklistedItemListView.button.action.damageValue.title.main: "Trvanlivost"
-UserBlacklistedItemListView.button.action.damageValue.title.sub: "CZměnit ID vlastního modelu této položky""
+UserBlacklistedItemListView.button.action.damageValue.title.sub: ""CZměnit ID vlastního modelu této položky"""
 UserBlacklistedItemListView.button.action.example: "Příklad: **0** nebo **215**"
 UserBlacklistedItemListView.button.action.maxAmount.title.main: "Maximální částka"
 UserBlacklistedItemListView.button.action.maxAmount.title.sub: "Změňte množství, které může být této položky ve Vault"

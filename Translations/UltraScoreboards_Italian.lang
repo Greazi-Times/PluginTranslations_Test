@@ -5,9 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-
-# Translated by Wag ツ#0001
-
 Overview.scoreboardButton.name: "Scoreboard"
 Overview.scoreboardButton.lore.click: "Clicca per vedere tute le **Scoreboard**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% creata"

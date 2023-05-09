@@ -1,11 +1,10 @@
 #
-# Archivo de Lenguaje Oficial
-# Para crear su propio archivo de idioma, copie este archivo y edite la copia.
+# Official Language File
+# To make your own language file, copy this file and edit the copy
 #
-# ¡Los cambios que se hagan en este archivo seran reiniciados!
-# ¡No edites esto!
+# Changes made to this file will be reset!
+# Do not edit it!
 #
-
 AddFlagListView.button.click: "**Click** para añadir esta regla"
 AddFlagListView.flagValue.allowed: "Por defecto esta regla esta **permitido**"
 AddFlagListView.flagValue.disallowed: "Por defecto esta regla esta **rechazado**"
@@ -81,7 +80,6 @@ FlagListView.button.lore.noPermission: "Alcance: **todos los jugadores**"
 FlagListView.button.lore.pressQ: "**Presiona Q** para **invertir** esta regla"
 FlagListView.model.lore: "Click para añadir regla"
 FlagListView.model.name: "Añadir reglas"
-flagListView.title: "%region% > Reglas"
 GenerationView.confirmButton.lore: "Click para generar con la configuracion dada"
 GenerationView.confirmButton.name: "Generar"
 GenerationView.confirmButton.process.title.main: "Generando.."
@@ -97,7 +95,7 @@ LivingEntitiesView.pressQ: "**Presiona Q** para teleportarte"
 LivingEntitiesView.removeAllEntities.confirmation: "Confirm removing all entities"
 LivingEntitiesView.removeAllEntities.lore: "**Click** to **remove** all entities"
 LivingEntitiesView.removeAllEntities.name: "Manage Entities"
-MenuArgument.usage:  "<Mundos / Regiones>"
+MenuArgument.usage: "<Mundos / Regiones>"
 Overview.navigationButton.lore.noPermissions: "Tu no tienes **permisos** para acceder a esta pestaña"
 Overview.navigationButton.lore.select: "Haga clic para seleccionar esta pestaña"
 Overview.navigationButton.lore.selected: "Esta pestaña esta actualmente **seleccionada**"
@@ -194,11 +192,11 @@ SelectionTypeSelector.expandVertTypeButton.click: "Click para **seleccionar**"
 SelectionTypeSelector.expandVertTypeButton.name: "Expandir selección vertical"
 SelectionTypeSelector.sphereTypeButton.click: "Click para **seleccionar**"
 SelectionTypeSelector.sphereTypeButton.name: "Selección en forma de esfera"
+SphereSelection.OuterPoint.title: "Establecer punto exterior"
 SphereSelection.center.actionBar: "Esta es la mitad de tu seleccion"
 SphereSelection.center.title: "Centro de seleccion"
 SphereSelection.description: "Con %radius% Radio de bloque"
 SphereSelection.outerPoint.actionBar: "Este es el punto exterior para determinar el radio."
-SphereSelection.OuterPoint.title: "Establecer punto exterior"
 SphereSelection.shape: "Esfera"
 TeleportCommand.argument.player: "<Jugador>"
 TeleportCommand.argument.world: "<Mundo>"
@@ -268,3 +266,4 @@ WorldView.weatherButton.pressQ.unlock: "Desbloquear"
 WorldView.weatherButton.thundering: "Los truenos de detendran en **%remainingTime%**"
 WorldWaterFlowFlag.desc: "Si esta deshabilitado, el agua dejará de fluir"
 WorldWaterFlowFlag.name: "Agua fluida"
+flagListView.title: "%region% > Reglas"

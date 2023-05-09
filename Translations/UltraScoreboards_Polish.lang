@@ -5,9 +5,6 @@
 # Changes made to this file will be reset!
 # Do not edit it!
 #
-# Translated by crosby
-
-
 Overview.scoreboardButton.name: "Scoreboards"
 Overview.scoreboardButton.lore.click: "Kliknij, aby wyświetlić wszystkie **Scoreboardy**"
 Overview.scoreboardButton.lore.createdSoFar: "%board% stworzonych tabel"

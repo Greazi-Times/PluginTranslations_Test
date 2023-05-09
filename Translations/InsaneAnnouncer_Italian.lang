@@ -1,13 +1,10 @@
 #
-# File ufficiale della lingua
-# Per creare il tuo file di lingua, copia questo file e modifica la copia 
+# Official Language File
+# To make your own language file, copy this file and edit the copy
 #
-# Le modifiche apportate a questo file verranno ripristinate! 
-# Non modificarlo! 
+# Changes made to this file will be reset!
+# Do not edit it!
 #
-# Traduzione fatta da Fedee#9989
-#
-
 generalSettingsPane.name: "Generale"
 generalSettingsPane.soundButton.lore.click: "Clicca per cambiare il suono"
 generalSettingsPane.soundButton.lore.currentSound: "Suono attuale"

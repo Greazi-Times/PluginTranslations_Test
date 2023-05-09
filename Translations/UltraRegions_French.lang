@@ -1,9 +1,9 @@
 #
-# Fichier des langues officielles
-# Pour créer votre propre fichier de langue, copiez ce fichier et modifiez la copie
+# Official Language File
+# To make your own language file, copy this file and edit the copy
 #
-# Les modifications apportées à ce fichier seront réinitialisées !
-# Ne le modifiez pas !
+# Changes made to this file will be reset!
+# Do not edit it!
 #
 AddFlagListView.button.click: "**Cliquez** pour ajouter ce drapeau"
 AddFlagListView.flagValue.allowed: "Par défaut, ce drapeau est **autorisé**"
@@ -80,7 +80,6 @@ FlagListView.button.lore.noPermission: "Porté: **Tous les joueurs**"
 FlagListView.button.lore.pressQ: "**Appuyez surQ** pour **inverser** ce drapeau"
 FlagListView.model.lore: "Cliquez pour ajouter un drapeau"
 FlagListView.model.name: "Ajouter un drapeau"
-flagListView.title: "%region% > Drapeaux"
 GenerationView.confirmButton.lore: "Cliquez pour générer avec des paramètres donnés"
 GenerationView.confirmButton.name: "Générer"
 GenerationView.confirmButton.process.title.main: "Générateur.."
@@ -193,11 +192,11 @@ SelectionTypeSelector.expandVertTypeButton.click: "Cliquez pour **sélectionner*
 SelectionTypeSelector.expandVertTypeButton.name: "Développer la sélection verticale"
 SelectionTypeSelector.sphereTypeButton.click: "Cliquez pour **sélectionner**"
 SelectionTypeSelector.sphereTypeButton.name: "Sélection en forme de sphère"
+SphereSelection.OuterPoint.title: "Définir le point extérieur"
 SphereSelection.center.actionBar: "C'est le milieu de votre sélection"
 SphereSelection.center.title: "Sélectionnez le centre"
 SphereSelection.description: "avec %rayon% rayon de bloc"
 SphereSelection.outerPoint.actionBar: "C'est le point extérieur pour déterminer le rayon"
-SphereSelection.OuterPoint.title: "Définir le point extérieur"
 SphereSelection.shape: "Sphère"
 TeleportCommand.argument.player: "<Joueur>"
 TeleportCommand.argument.world: "<Monde>"
@@ -267,3 +266,4 @@ WorldView.weatherButton.pressQ.unlock: "déverrouiller"
 WorldView.weatherButton.thundering: "Le tonnerre s'arrêtera dans **%remainingTime%**"
 WorldWaterFlowFlag.desc: "Si désactivé, l'eau cessera de couler dans cette région"
 WorldWaterFlowFlag.name: "Mouvement de l'eau"
+flagListView.title: "%region% > Drapeaux"
